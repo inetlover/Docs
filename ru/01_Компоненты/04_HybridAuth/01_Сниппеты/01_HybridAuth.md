@@ -56,6 +56,7 @@
 * Twitter - https://dev.twitter.com/apps/new
 * Google - https://dev.twitter.com/apps/new
 * Facebook - https://developers.facebook.com/apps
+* Mail - http://api.mail.ru/sites/my/add
 
 ### Контексты
 Если у вас несколько независимых контекстов на сайте, вы можете организовать для них авторизацию через одних и тех же провайдеров, но для разных доменов.
